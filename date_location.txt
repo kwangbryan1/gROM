@@ -1,1 +1,1 @@
-/path/to/gromdata
+C:\Users\kwang\gromdata
